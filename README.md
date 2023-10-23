@@ -1,7 +1,6 @@
 # Temperature Converter Website
 
-This project is a simple web application that allows users to convert temperatures between different units such as Celsius, Fahrenheit, and Kelvin. 
-It provides a user-friendly interface for quickly and accurately converting temperatures without the need for complex calculations.
+This project is a simple web application that allows users to convert temperatures between different units such as Celsius, Fahrenheit, and Kelvin. It provides a user-friendly interface for quickly and accurately converting temperatures without the need for complex calculations.
 
 ## Features
 
@@ -10,10 +9,15 @@ It provides a user-friendly interface for quickly and accurately converting temp
 - Real-time conversion updates as the user inputs values.
 - Responsive design that works seamlessly on both desktop and mobile devices.
 
+## Getting Started
+
+### Prerequisites
+
+- Web browser with JavaScript enabled.
 
 ### Installation
 
-To use the Temperature Converter Website, simply visit the link https://iamniraj222.github.io/Temperature-converter-website/ in any web browser.
+To use the Temperature Converter Website, simply visit the [live website link](https://iamniraj222.github.io/Temperature-converter-website/) in any modern web browser.
 
 Alternatively, you can clone the repository and run the website locally by following these steps:
 
@@ -36,7 +40,8 @@ Contributions are always welcome! If you have any ideas, suggestions, or improve
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, please feel free to reach out to us at jayniraj249@gmail.com.
+If you have any questions or suggestions regarding this project, please feel free to reach out to us at [jayniraj249@gmail.com](mailto:jayniraj249@gmail.com).
+
 
 
 
